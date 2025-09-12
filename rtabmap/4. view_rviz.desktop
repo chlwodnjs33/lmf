@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/view_rviz.sh"
+Icon=/home/wego/limo_start_shortcut/icons/view_rviz.png
+Name=view_rviz
+Name[en]=4. view_rviz.desktop

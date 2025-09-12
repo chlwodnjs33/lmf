@@ -1,0 +1,2 @@
+limo
+-DCATKIN_DEVEL_PREFIX=/home/wego/Desktop/limobility/devel -DCMAKE_INSTALL_PREFIX=/home/wego/Desktop/limobility/install -G Unix Makefiles

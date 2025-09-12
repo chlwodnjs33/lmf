@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/limo_bringup_with_tf.sh"
+Icon=/home/wego/limo_start_shortcut/icons/robot.png
+Name=limo_bringup_with_tf
+Name[en]=1. limo_bringup_with_tf.desktop

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/lane_detection.sh"
+Icon=/home/wego/limo_start_shortcut/icons/lane_detection.png
+Name=lane_detection
+Name[en]=3. lane_detection.desktop

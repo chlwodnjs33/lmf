@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/lidar_mapping.sh"
+Icon=/home/wego/limo_start_shortcut/icons/mapping.png
+Name=lidar_mapping
+Name[en]=2. lidar_mapping.desktop

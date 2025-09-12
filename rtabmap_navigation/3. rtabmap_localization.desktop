@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/rtabmap_localization.sh"
+Icon=/home/wego/limo_start_shortcut/icons/localization.png
+Name=rtabmap_localization
+Name[en]=3. rtabmap_localization.desktop

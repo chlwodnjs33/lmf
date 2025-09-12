@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/roscore.sh"
+Icon=/home/wego/limo_start_shortcut/icons/roscore.png
+Name=roscore
+Name[en]=1. roscore.desktop

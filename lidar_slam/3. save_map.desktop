@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/wego/limo_start_shortcut/bashes/save_map.sh"
+Icon=/home/wego/limo_start_shortcut/icons/save_map.png
+Name=save_map
+Name[en]=3. save_map.desktop

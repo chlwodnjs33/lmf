@@ -1,0 +1,8 @@
+prefix=/home/wego/Desktop/limobility/install
+
+Name: limo
+Description: Description of limo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

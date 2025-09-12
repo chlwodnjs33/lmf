@@ -1,0 +1,2 @@
+drive
+-DCATKIN_DEVEL_PREFIX=/home/wego/Desktop/drive/devel -DCMAKE_INSTALL_PREFIX=/home/wego/Desktop/drive/install -G Unix Makefiles
